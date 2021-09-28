@@ -3,6 +3,6 @@ tensorflow==2.4.3
 geopython==0.25.0
 numpy==1.19.5
 scikit-learn==1.0
-
+ipykernel==6.4.1
 
 
