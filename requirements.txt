@@ -6,3 +6,4 @@ scikit-learn==1.0
 matplotlib==3.4.3
 fiona==1.8.20
 sentinelsat
+ipywidgets
