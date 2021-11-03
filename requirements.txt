@@ -12,3 +12,4 @@ sentinelsat
 pandas==1.3.3
 python_dotenv==0.19.1
 s2cloudless==1.5.0
+geopandas==0.10.2
