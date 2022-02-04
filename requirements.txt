@@ -14,3 +14,4 @@ python_dotenv==0.19.1
 s2cloudless==1.5.0
 geopandas==0.10.2
 azure.storage.blob==12.9.0
+pycurl==7.44.1
