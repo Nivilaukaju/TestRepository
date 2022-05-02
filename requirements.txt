@@ -27,4 +27,5 @@ tensorflow==2.6.2
 PyOD==0.9.9
 beautifulsoup4==4.11.1
 lxml==4.8.0
+xarray==2022.3.0
 
