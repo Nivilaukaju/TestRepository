@@ -1,15 +1,15 @@
 # rasterio==1.2.8
 # tensorflow==2.4.3
 # geopython==0.25.0
-numpy==2.0.1
-scikit-learn==1.5.1
-matplotlib==3.9.2
+#numpy==2.0.1
+#scikit-learn==1.5.1
+#matplotlib==3.9.2
 #fiona==1.8.20
 #sentinelsat==1.1.1
 # #pygments==2.10.0
 # #notebook==6.4.4
 # ipywidgets==7.6.5 
-pandas==2.2.2
+#pandas==2.2.2
 #python_dotenv==0.19.1
 #s2cloudless==1.5.0
 #geopandas==0.10.2
@@ -24,7 +24,7 @@ pandas==2.2.2
 #h5py==3.1.0
 #keras==2.8.0
 #tensorflow==2.6.2
-pyod==2.0.1
+#pyod==2.0.1
 #beautifulsoup4==4.11.1
 #lxml==4.8.0
 #xarray==2022.3.0
@@ -37,6 +37,7 @@ pyod==2.0.1
 #rioxarray==0.12.4
 #holidays==0.55
 #python-pptx==1.0.2
-datasets==3.0.0
-evaluate==0.4.3
-accelerate==0.34.2
+#datasets==3.0.0
+#evaluate==0.4.3
+#accelerate==0.34.2
+llama-cpp-python
