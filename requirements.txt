@@ -54,4 +54,4 @@ InstructorEmbedding==1.0.1
 faiss-cpu==1.9.0
 transformer==4.46.3
 langgraph==0.2.56
-wikipedia==1.3.1
+wikipedia==1.4.0
