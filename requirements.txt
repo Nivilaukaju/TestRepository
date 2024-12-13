@@ -46,6 +46,7 @@ keras==3.6.0
 plotly==5.24.1
 langchain==0.3.7
 langchain_community==0.3.7
+langchain_chroma==0.1.4
 pypdf==5.1.0
 gguf==0.10.0
 sentence_transformers==3.3.1
