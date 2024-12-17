@@ -58,3 +58,4 @@ langgraph==0.2.56
 wikipedia==1.4.0
 requests==2.32.2 
 urllib3==2.2.2
+pymupdf4llm==0.0.17
