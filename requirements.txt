@@ -59,3 +59,4 @@ wikipedia==1.4.0
 requests==2.32.2 
 urllib3==2.2.2
 pymupdf4llm==0.0.17
+llama_index==0.12.5
